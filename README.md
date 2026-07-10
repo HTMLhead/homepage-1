@@ -11,7 +11,7 @@
 자유롭게 탐험하며 함께 성장하는 동료를 만날 수 있는 코드스쿼드 입니다.
 
 <h2>
-  유지보수 관련 스토리북 주소
+  유지보수 관련 스토리북 주소 (임시 주소)
 </h2>
 
 - https://627a29cdb418b5004a1d4cb8-bliqdwctlk.chromatic.com/?path=/story/home-introduction--page
